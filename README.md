@@ -4,4 +4,4 @@
 The demonstration of the web page is shown below.
 
 ![Image of the Web Page]
-(https://github.com/kaiwei-luo/ColorGame/images/Demo.png)
+(https://github.com/kaiwei-luo/ColorGame/blob/master/images/Demo.png)
